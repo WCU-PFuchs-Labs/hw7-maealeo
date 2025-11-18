@@ -1,4 +1,4 @@
-import java.util.Random;
+import java.util.*;
 import binary.*; 
 
 public class TestCollect {
