@@ -1,6 +1,5 @@
 import binary.*;
-import java.util.ArrayList; 
-import java.util.Random; 
+import java.util.*;
 
 
 public class GPTree implements Collector {
@@ -103,3 +102,4 @@ public class GPTree implements Collector {
     }
     
 }
+
