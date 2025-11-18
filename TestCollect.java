@@ -1,4 +1,5 @@
 import java.util.Random;
+import binary.*; 
 
 public class TestCollect {
     static int numIndepVars = 3;
